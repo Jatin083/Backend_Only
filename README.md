@@ -4,13 +4,13 @@ Topics covered:- </br>
 // arrays and objects </br>
 // functions return</br>
 // async js coding</br>
-// foreach map filter find indexOf Rest
+// foreach map filter find indexOf Rest</br>
 
 2. <B>Node Js </B> :- https://github.com/Jatin083/Backend_Only/tree/main/Node_Js</br>
 Topics covered:- </br>
-// Node.js Basics:
-// Introduction to Node.js.
-// Installing Node.js and npm.
-// workinng with modules.
-// File system operations.
-// understanding HTTP module.
+// Node.js Basics</br>
+// Introduction to Node.js</br>
+// Installing Node.js and npm</br>
+// workinng with modules</br>
+// File system operations</br>
+// understanding HTTP module</br>
