@@ -1,0 +1,50 @@
+// Node.js Basics:
+// Introduction to Node.js.
+// Installing Node.js and npm.
+// workinng with modules.
+// File system operations.
+// understanding HTTP module.
+
+
+// Introduction to Node.js.
+
+js se backend nhi ban sakta 
+kuni js ke pass wo functionalities nahi hai jinse backend banta hai 
+ryan dahl isne socha js se backend banna chaiye
+google chrome ka v8 engine ka code open source hai and ryan dahl us code mein 
+chhedkhaani kar raha hai  
+kuki chrome ka v8 engine bana hai c++ mein 
+fir usne socha ki hume to js me code krna hai 
+
+
+hum js ka code likhenge jo ki wrapper layer of js receive kregi and wo code v8 
+engine ke c++ modules ke saath ek server create krega 
+
+//Nodejs is an js Runtime environment 
+
+npm ek jgh h jha loggg apne package upload krte h 
+jisse hum use kr sakte h matlab kisi aur ka package use kiya humne 
+
+
+
+//npm init --> package.json --> lekha jokha of the project
+
+
+//protocol matlab rules
+Internet pe kuch krne ke liye rules banaaye gaye hai 
+unke dwaara jinhone internet banaaya hai,ab unhe follow krna jaruri hai 
+vo follow ho is liye OS ke andar already install hotey hai
+
+//http - protocol 
+yahi protocol hai ya rule hai jisko follow
+kiye bina na kuch bej sakte ho na manga sakte hoo
+
+
+//Server banta h aaisey 
+
+const http = requie('http');
+
+const server = https.createServer(function(req, res){
+    res.end("hello world");
+})
+server.listen(3000);
