@@ -14,3 +14,13 @@ Topics covered:- </br>
 // workinng with modules</br>
 // File system operations</br>
 // understanding HTTP module</br>
+
+3. <b>NPM understanding</b> :- https://github.com/Jatin083/Backend_Only/tree/main/npm</br>
+Topics covered:- </br>
+// npm - node package manager</br>
+// installing and uninstalling anything basics & advance</br>
+// understanding node_modules</br>
+// dependecies</br>
+// devdependencies</br>
+// scripts - understanding default scripts PATH and custom scripts</br>
+
