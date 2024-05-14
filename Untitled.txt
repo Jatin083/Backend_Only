@@ -1,0 +1,37 @@
+// NPM understanding
+// npm - node package manager
+// installing and uninstalling anything basics & advance
+// understanding node_modules
+// dependecies
+// devdependencies
+// scripts - understanding default scripts PATH and custom scripts
+
+
+// npm - node package manager namm tha lekin different chijo 
+ke package tha aagye . tab node ke alawa or bhi package aa gye vha 
+// npm ek place h jha packages or code basis chije milengi 
+
+// jo bhi hum node js core mein jo installed aata hai wo kehlata hain node_module
+
+// npm se download krte hai wo hota hai package
+
+//node_module vo hai jisme dependencies hoti hai packages ki 
+
+// kisi bhi chij ko install krne ke liye = npm i (package name)
+// uninstall ke liye = npm uninstall (package name)
+
+
+// dependicies -- jo package and packages ki dependent hai 
+// devdependencies -- aisa package jo sirf development me kaam aayenge
+or jab vo app deploy ho jayega tab hum uska use nhi krenge 
+like npm i nodemon --save -dev
+
+
+
+//scripts hum kii sari add kr sakte h khud hi 
+usme pehle se hi do h start and test but agr hum ek or bnaye 
+jaise nobita usme save kre "echo \"doremon doremon"\"
+too jab hum npm run nobita likhenge
+tab "doremon doremon" print hoga
+
+
