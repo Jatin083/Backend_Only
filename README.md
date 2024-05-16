@@ -24,3 +24,14 @@ Topics covered:- </br>
 // devdependencies</br>
 // scripts - understanding default scripts PATH and custom scripts</br>
 
+4. <B>Express_JS and Middleware</B> :- https://github.com/Jatin083/Backend_Only/tree/main/Middleware<br/>
+Topics covered:- </br>
+// Express.js Framework </br>
+// introduction to Express.js</br>
+// Setting up a basic Express application</br>
+// Routing</br>
+// Middleware</br>
+// Request and response handling</br>
+// Error handling</br>
+ 
+
