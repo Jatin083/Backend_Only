@@ -1,0 +1,30 @@
+// Express.js Framework:
+// introduction to Express.js
+// Setting up a basic Express application
+// Routing
+// Middleware
+// Request and response handling
+// Error handling
+
+
+// important for MERN
+// Express js ek npm package hai 
+// Express ek framework hai
+// framework --> flow hoga or apne hisab se chije kr sakte h 
+flow me agar pehle express ke acuqire krna h to krna padega,
+app.use krna h to krna padega, routes bhi krna padega lekin
+routes me kya jayega vo m change kr sakta hu
+
+// manages everything from receiving the Request and giving the response
+
+// Routes hota h like youtube/, facebook/, sheryansh.com/profile
+// domain ke aage vala part hota h Routes
+
+
+
+//Middleware
+
+jab bhi server Request accept karta hai waha se route ke beech pahuchne tak agar app us Request ko beech me rokte ho and kuch perform krte ho too ye element Middleware kehlata hai 
+
+
+
