@@ -1,0 +1,21 @@
+//form handling and working with forms
+//handle backend process of forms and making sure the data coming from dny frontend lib,
+fw, templating engines , we still handle it at the backend
+
+// session cookie
+hum log kuch bhi data frontend pe browser pe rakh sakte hai and jab bhi aap kuchbhi request backend par karoge wo 
+fe par saved data automatically backend par chala jayega
+
+//cookie matlab data jo humare frontend pe save h
+
+//session login krne se log out krne tak hota hai
+
+//frontend pe jo input diya hai vo backend pe jayega humko lag ra hai ki vo simple name jo dala hai vse jayega vo lekin vo mixed form me jayega or directly read nhi kr sakte usko usko hum blob
+
+//tumne too beja tha plain text lekin sever ko mila blob which is not directly readable ab is cheej ko handle karna padega ki hum us blob ko wapas se readable kar sakey 
+
+// app.use(express.json());
+// app.use(express.urlencoded({extended: true}))
+
+ye dono line wapas data ko readable banata hai
+or ye ejs vagarh use krne time usi hotry h
