@@ -1,0 +1,26 @@
+initialize a project with npm 
+express install
+
+dynammic routing :- hum log kaii barr kuch routes dekhte hai unmein sirf ek hi hissa change hota hai
+    like /author/Swayam
+         /author/Jatin
+         /author/Aryan 
+         is liye dynamic routing use hoti hai 
+
+         sabse pehle browser pe jao 
+         url likhiye jo aapko chaiye and enter dabayie
+         ab us url route ko create kariye
+         res bhejiye kuch bhii
+         ab usi url ko agar dynamic banana hai to realise kro kon sa part dynamic hai or uss part ke aage route me : lga do
+
+
+   dynamic routing
+   how to get data coming from frontend at backend route
+
+setting up parsers for from
+
+setting up ejs for ejs pages
+  install ejs from npm 
+  setup ejs as a view engine
+
+setting up public static files
