@@ -39,3 +39,9 @@ Topics covered:- </br>
 // File handling </br>
 // Session</br>
 // Cookies</br>
+
+6. <B>Dynamic_Routing</B> :- https://github.com/Jatin083/Backend_Only/tree/main/Dynamic_Routing<br/>
+Topics covered:- </br>
+// Dynamic routing </br>
+// ejs </br>
+
